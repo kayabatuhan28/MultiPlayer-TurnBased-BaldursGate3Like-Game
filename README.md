@@ -1,5 +1,5 @@
 # MultiPlayer-TurnBased-BaldursGate3Like-Game
-Gameplay Video Link : https://drive.google.com/file/d/1ImbacfPIjNxiJtXofjjJmXxtRClYHrtH/view?usp=drive_link
+Gameplay Video Link : https://www.youtube.com/watch?v=XUNvKzdr6r4&list=PLeUQ9Opn9i7OVt3ZP3Vw3DxmMvpgFw-BR&index=4
 
 ------------------------------------------------------------ TR ------------------------------------------------------------
 - Bu projede arkadaşımla steam üzerinden bir oynayış gerçekleştirdik.
