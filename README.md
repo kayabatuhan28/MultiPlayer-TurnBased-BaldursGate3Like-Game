@@ -5,7 +5,7 @@ Gameplay Video Link : https://www.youtube.com/watch?v=XUNvKzdr6r4&list=PLeUQ9Opn
 - Bu projede arkadaşımla steam üzerinden bir oynayış gerçekleştirdik.
 - Proje multiplayer bir projedir. Temel olarak baldurs gate 3 baz alındı. Online bağlantı için Steam online subsystem kullanıldı.
 - Sıra tabanlı bir oynanış söz konusudur. Oyuncular kendi turunda birbirlerine hamle yaparlar. Her turda belirli bir yürüme mesafesi ve action point kazanırlar. Bu action point ile düz vuruş veya skill gerçekleştirebilirler. Yürüme limitleri yettiği sürecede yürürler
-- Oyuncular odaya girdikten sonra kendilerine 3 adet class seçerek oyuna dahil olurlar
+- Oyuncular odaya girdikten sonra kendilerine 3 adet class seçerek oyuna dahil olurlar.
 - Projede toplam 6 adet seçilebilir class bulunmakta. Bunlar : Barbarian, Paladin, Archer, Mage, Assassin, Monk şeklindedir.
 - Her bir classın 1 düz vuruş +4 adet skili mevcuttur. Bu skillerinde farklı etkileri mevcut. 2 tur yakma, 1 tur susturma, 2 tur knockdown, Kendine çekme vs. gibi skillden skile değişen farklılıklar mevcut.
 
